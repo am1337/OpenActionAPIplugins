@@ -29,12 +29,18 @@
 		"repository": "https://github.com/OpenActionPlugins/system",
 		"description": "An OpenAction plugin for displaying system information"
 	},
+	"com.ags.info_clock": {
+		"name": "Info Clock",
+		"author": "Alex Godinez",
+		"repository": "https://github.com/AlexGdevGT/infobar_clock",
+		"description": "Infobar clock for StreamDeck Neo with OpenDeck software"
+	},
 	"com.marikar.rocrailcontrol": {
 		"name": "RocRail Client",
 		"author": "Achim Marikar",
 		"repository": "https://github.com/am1337/OpenDeck-RocRail-Plugin",
 		"description": "Plugin for OpenDeck that connects to RocRail and enables to control your model train via stream deck"
-	},
+  },
 	"info.degois.damien.opendeck.plugins.rotary-command": {
 		"name": "Rotary Generic Command",
 		"author": "babs",
@@ -52,6 +58,12 @@
 		"author": "sfgrimes",
 		"repository": "https://github.com/CronusAK/Pulse-Audio-Stream-Deck-Plugin",
 		"description": "OpenDeck compatible Stream Deck plugin for controling Pulse Audio."
+	},
+	"com.gdwhisper.tikclock": {
+		"name": "TikClock",
+		"author": "GDWhisper",
+		"repository": "https://github.com/GDWhisper/opendeck-tikclock",
+		"description": "An OpenAction plugin that displays a digital clock across keys, one digit per key"
 	},
 	"com.havner.uinput": {
 		"name": "Linux Uinput Simulation",
